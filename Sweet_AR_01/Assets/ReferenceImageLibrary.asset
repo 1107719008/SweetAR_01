@@ -21,7 +21,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 6075888381070653497
       m_GuidHigh: 4094973542453279259
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+    m_Size: {x: 20, y: 21.78954}
+    m_SpecifySize: 1
     m_Name: choco
     m_Texture: {fileID: 0}
